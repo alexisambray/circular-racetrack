@@ -1,0 +1,2 @@
+# Circular Racetrack
+A circular racetrack is composed of four portions: concrete, mud, sand, and asphalt.  Sly Slick’s car takes 30 seconds to cross the concrete, 55 seconds to cross the mud, 47 seconds to cross the sand, and 38 seconds to cross the asphalt. Make a program segment that will ask for a positive TIME value in seconds and output WHERE in the track Sly’s car is. Assume that the race starts at the beginning of the concrete portion. Hint: Where is his car after 50 seconds? After 200 seconds? After 1634 seconds?
